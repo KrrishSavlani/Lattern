@@ -38,7 +38,7 @@ void printpatternJ (int size)
   }
 
 int main() {
-int size = 5;
+int size = 6;
 
 printpatternJ(size);
 
